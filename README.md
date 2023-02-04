@@ -1,3 +1,8 @@
 # StoreKitt
 
-A description of this package.
+Usage:
+```
+let vc = ProductViewController()
+vc.productIdsToLoad = [...]
+//present vc
+```
